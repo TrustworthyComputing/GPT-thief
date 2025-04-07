@@ -8,7 +8,7 @@ Large language models (LLMs) are revolutionizing industries by enabling advanced
 The tools and scripts provided in this repository allow users to replicate key findings from the paper, investigate vulnerabilities in split model LLMs, and investigate potential mitigation techniques. 
 
 ### How to cite this work
-The preprint can be accessed [here](https:// https://eprint.iacr.org/2024/1675); you can cite this work as follows:
+This work has been presented at the 2025 Design Automation and Test in Europe (DATE) conference. The preprint can be accessed [here](https://eprint.iacr.org/2024/1675); you can cite this work as follows:
 ```
 @misc{folkerts2024testing,
       author = {Lars Wolfgang Folkerts and Nektarios Georgios Tsoutsos},
